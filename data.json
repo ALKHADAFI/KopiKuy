@@ -1,0 +1,236 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEo8vLsxBXQTThwYKLxq4HuIbFojXtTAcyXg&usqp=CAU",
+            "nama": "Arabica Brown Sugar",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzxUso65Besi9dHIbFojqYaM_Q5hqSoHJMw&usqp=CAU",
+            "nama": "cappuccino Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://1.bp.blogspot.com/-bKH7Vl_VAVY/Xm-fcbAravI/AAAAAAAAAJI/pS4zIDeDcCgeRaLPGBTL4DKOqvEivQNdQCLcBGAsYHQ/s1600/Sekilas-Tentang-Kopi-Vietnam.webp",
+            "nama": "Robusta Vietnam Drip",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://kurio-img.kurioapps.com/21/04/09/7fbb8c6a-cb83-401e-8f6b-bce32c4c4d8e.jpe",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/XXgLzFHCWUWNnaeY-1SERQg5tIE=/16x36:1226x843/780x390/data/photo/2021/03/16/60505271b28ea.jpg",
+            "nama": "Es Cream Fruity",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1Umrp5uE3cMsTKNsIZyISRw94j5hkAHcJg&usqp=CAU",
+            "nama": "Thai Tea",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        }
+    ],
+    "pastry": [
+        {
+            "foto": "https://nibble-images.b-cdn.net/nibble/original_images/cara_makan_croissant_1_68c6dc09e7_ztiN9jBnr.jpg",
+            "nama": "Croissant",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://images.getrecipekit.com/20211110215445-choux-cream-puff-dessert-trio-1024x653.jpg?aspect_ratio=16:9&quality=90&",
+            "nama": "Choux Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://bellyfull.net/wp-content/uploads/2022/07/Blueberry-puff-pastry-tart-blog-4.jpg",
+            "nama": "Blueberry Puff Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://veenaazmanov.com/wp-content/uploads/2020/11/How-to-make-Danish-Pastry148.jpg",
+            "nama": "Danish Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        }
+    ],
+    "semuamenu": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEo8vLsxBXQTThwYKLxq4HuIbFojXtTAcyXg&usqp=CAU",
+            "nama": "Arabica Brown Sugar",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqzxUso65Besi9dHIbFojqYaM_Q5hqSoHJMw&usqp=CAU",
+            "nama": "cappuccino Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://1.bp.blogspot.com/-bKH7Vl_VAVY/Xm-fcbAravI/AAAAAAAAAJI/pS4zIDeDcCgeRaLPGBTL4DKOqvEivQNdQCLcBGAsYHQ/s1600/Sekilas-Tentang-Kopi-Vietnam.webp",
+            "nama": "Robusta Vietnam Drip",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://aromarasa.com/wp-content/uploads/2021/04/cara-membuat-es-campur-spesial-enak-tanpa-ribet.jpg",
+            "nama": "Es Campur",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://kurio-img.kurioapps.com/21/04/09/7fbb8c6a-cb83-401e-8f6b-bce32c4c4d8e.jpe",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://asset.kompas.com/crops/XXgLzFHCWUWNnaeY-1SERQg5tIE=/16x36:1226x843/780x390/data/photo/2021/03/16/60505271b28ea.jpg",
+            "nama": "Es Cream Fruity",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1Umrp5uE3cMsTKNsIZyISRw94j5hkAHcJg&usqp=CAU",
+            "nama": "Thai Tea",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=es+campur&source=lmns&tbm=shop&bih=775&biw=1600&hl=id&sa=X&ved=2ahUKEwjR-dX1nq6AAxW-6DgGHdtNA5gQ0pQJKAN6BAgBEAg"
+        },
+        {
+            "foto": "https://nibble-images.b-cdn.net/nibble/original_images/cara_makan_croissant_1_68c6dc09e7_ztiN9jBnr.jpg",
+            "nama": "Croissant",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://images.getrecipekit.com/20211110215445-choux-cream-puff-dessert-trio-1024x653.jpg?aspect_ratio=16:9&quality=90&",
+            "nama": "Choux Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://bellyfull.net/wp-content/uploads/2022/07/Blueberry-puff-pastry-tart-blog-4.jpg",
+            "nama": "Blueberry Puff Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        },
+        {
+            "foto": "https://veenaazmanov.com/wp-content/uploads/2020/11/How-to-make-Danish-Pastry148.jpg",
+            "nama": "Danish Pastry",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://shopee.co.id/product/190968378/9465108382?gclid=CjwKCAjwq4imBhBQEiwA9Nx1BpqImvmJ4NdRsoeCPyPlHnt9826_NX7B-DK7svMyG3Of6XXEmNsJhhoC238QAvD_BwE"
+        }
+    ]
+}
